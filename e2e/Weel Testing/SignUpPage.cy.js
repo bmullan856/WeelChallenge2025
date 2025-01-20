@@ -192,7 +192,6 @@ describe("Login Page Tests", () => {
       "have.text",
       MockData.AccountAlreadyExists
     );
-    s;
     //Ensure Redirect link i showen
     cy.get('[data-testid="login-to-continue-link"]').click();
     //user redirected to the login page

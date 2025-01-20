@@ -18,7 +18,7 @@
     "AlreadyLogInHeading":"Already got an account? Login",
     "PasswordHeading":"Password",
     "CreateAccount":"Create account",
-    "AddressWarningMessage":"Please enter an email address",
+    "AddressWarningMessage":"Please enter an email address.",
     "TryAgainAddressWarningMessage":"Please try again with your work email address",
     "AccountAlreadyExists":"This account already exists. Login to continue"
 }
