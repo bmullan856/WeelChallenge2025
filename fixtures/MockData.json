@@ -1,0 +1,25 @@
+{
+    "EmailNewUser": "test15@example.com",
+    "ExistingUserEmail": "test@example.com",
+    "ExistingUserPassword": "Password1!",
+    "InvalidEmail": "Invalidtest@hotmail",
+    "AcceptedPassword": "Password1!",
+    "BadPassword":  "test",
+    "Domain": "example.com",
+    "BirthdayDay": "20",
+    "BirthdayMonth": "10",
+    "BirthdayYear": "1995",
+    "PhoneNumber":"0420239348",
+    "TryWellHeading":"Try Weel free today",
+    "EnterWorkEmailHeading":"Enter work email",
+    "SignUpEmailHeading":"Sign up with email",
+    "OrDivider":"Or",
+    "SignUpToXero":"Sign up with Xero",
+    "AlreadyLogInHeading":"Already got an account? Login",
+    "PasswordHeading":"Password",
+    "CreateAccount":"Create account",
+    "AddressWarningMessage":"Please enter an email address",
+    "TryAgainAddressWarningMessage":"Please try again with your work email address",
+    "AccountAlreadyExists":"This account already exists. Login to continue"
+}
+  
